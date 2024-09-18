@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;apache-tomcat-9.0.39.rar&apos; to &apos;todo-application-jsp-servlet-jdbc-mysql-master&apos;&#x0D;&#x0A;- Original project: &apos;577PROJECT&apos;&#x0D;&#x0A;- Destination element: &apos;todo-application-jsp-servlet-jdbc-mysql-master&apos;&#x0D;&#x0A;- Original element: &apos;apache-tomcat-9.0.39.rar&apos;" description="Copy file" element1="apache-tomcat-9.0.39.rar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1710266866288" target="/todo-application-jsp-servlet-jdbc-mysql-master" units="0" version="1.0"/>
+</session>

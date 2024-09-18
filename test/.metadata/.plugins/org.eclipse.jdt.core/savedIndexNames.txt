@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\test\.metadata\.plugins\org.eclipse.jdt.core
+3745231238.index
+4045663527.index
+2752940357.index
+2764291653.index
+2717034449.index
+2208258633.index
+1865797976.index
+1354188661.index

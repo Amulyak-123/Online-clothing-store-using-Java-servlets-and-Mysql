@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\Amulya\Downloads\eclipse-jee-2023-12-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858" version="17.0.9"/>
+    <libraryInfo home="C:\Users\Amulya\Downloads\eclipse-jee-2023-12-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.9.v20231028-0858\jre" version="17.0.9"/>
+    <libraryInfo home="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291" version="1.8.0_291">
+        <bootpath>
+            <entry path="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291\lib\resources.jar"/>
+            <entry path="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291\lib\rt.jar"/>
+            <entry path="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291\lib\sunrsasign.jar"/>
+            <entry path="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291\lib\jsse.jar"/>
+            <entry path="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291\lib\jce.jar"/>
+            <entry path="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291\lib\charsets.jar"/>
+            <entry path="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291\lib\jfr.jar"/>
+            <entry path="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Users\Amulya\OneDrive\Documents\Desktop\online cloth store\java-servelet-project\Java\Java\jre1.8.0_291\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\java\jdk1.6.0_04" version="1.6.0_04">
+        <bootpath>
+            <entry path="C:\java\jdk1.6.0_04\jre\lib\resources.jar"/>
+            <entry path="C:\java\jdk1.6.0_04\jre\lib\rt.jar"/>
+            <entry path="C:\java\jdk1.6.0_04\jre\lib\sunrsasign.jar"/>
+            <entry path="C:\java\jdk1.6.0_04\jre\lib\jsse.jar"/>
+            <entry path="C:\java\jdk1.6.0_04\jre\lib\jce.jar"/>
+            <entry path="C:\java\jdk1.6.0_04\jre\lib\charsets.jar"/>
+            <entry path="C:\java\jdk1.6.0_04\jre\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\java\jdk1.6.0_04\jre\lib\ext"/>
+            <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\java\jdk1.6.0_04\jre\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;todo-application-jsp-servlet-jdbc-mysql-master&apos;" deleteContents="false" description="Delete resource &apos;todo-application-jsp-servlet-jdbc-mysql-master&apos;" element1="/todo-application-jsp-servlet-jdbc-mysql-master" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1710565265618"/>
+</session>
